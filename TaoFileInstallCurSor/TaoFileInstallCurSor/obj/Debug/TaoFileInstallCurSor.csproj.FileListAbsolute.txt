@@ -1,0 +1,12 @@
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\bin\Debug\TaoFileInstallCurSor.exe.config
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\bin\Debug\TaoFileInstallCurSor.exe
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\bin\Debug\TaoFileInstallCurSor.pdb
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.Form1.resources
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.Properties.Resources.resources
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.csproj.GenerateResource.cache
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.csproj.CopyComplete
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.exe
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.pdb
+C:\Users\trung\source\repos\TaoFileInstallCurSor\TaoFileInstallCurSor\obj\Debug\TaoFileInstallCurSor.csproj.AssemblyReference.cache
